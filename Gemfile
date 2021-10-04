@@ -66,5 +66,9 @@ gem 'date_validator'
 gem 'popper_js', '~> 1.11', '>= 1.11.1'
 
 gem 'rails_admin'
+# Fot google oauth
+#gem 'omniauth'
+#gem 'omniauth-google-oauth2'
+
 
 gem 'devise'
