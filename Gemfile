@@ -64,3 +64,8 @@ gem 'bootstrap-sass'
 gem 'date_validator'
 
 gem 'popper_js', '~> 1.11', '>= 1.11.1'
+
+
+gem 'devise'
+gem 'omniauth'
+gem 'omniauth-google-oauth2'
